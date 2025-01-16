@@ -24,8 +24,7 @@ This application is a web application where hotel staff can check reservations a
 - react-pdf
 
 
-#Please click to view the application  
-[Motel Elfa](https://motel-elfa.vercel.app)  
+#Please click to view the application  [Motel Elfa](https://motel-elfa.vercel.app)  
 **You can log in using this email and password.**  
 email = rokima7646@confmin.com  
 password = lorapetek  
