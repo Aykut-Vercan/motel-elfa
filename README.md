@@ -22,4 +22,3 @@ This application is a web application where hotel staff can check reservations a
 - styled-components
 - date-fns
 - react-pdf
-- react-router-dom
