@@ -11,7 +11,7 @@ This application is a web application where hotel staff can check reservations a
 - Updating hotel settings
 - Data filtering operations
 
-### 5. **Technologies**  
+### **Technologies**  
 - supabase
 - tanstack query
 - react (v18)
