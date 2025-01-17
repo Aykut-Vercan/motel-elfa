@@ -1,9 +1,9 @@
 # Motel Elfa
 
-This project is a modern React application built with **Vite** and powered by **Supabase** as the backend.
+This project is a modern React application built with **Vite** and powered by **Supabase** as the backend.  
 This application is a web application where hotel staff can check reservations and make the necessary additions, updates and deletions that should be in a hotel.
 
-## Features
+## **Features**
 - User registration and login
 - Dark mode and Light mode
 - Reporting on the Dashboard screen with react-rechart
@@ -22,3 +22,9 @@ This application is a web application where hotel staff can check reservations a
 - styled-components
 - date-fns
 - react-pdf
+- 
+#### Visit the Application  
+Please click to **Explore the Application**   [Motel Elfa](https://motel-elfa.vercel.app)  
+**You can log in using this email and password.**  
+email = rokima7646@confmin.com  
+password = lorapetek  
