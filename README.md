@@ -22,7 +22,7 @@ This application is a web application where hotel staff can check reservations a
 - styled-components
 - date-fns
 - react-pdf
-- 
+  
 #### Visit the Application  
 Please click to **Explore the Application**   [Motel Elfa](https://motel-elfa.vercel.app)  
 **You can log in using this email and password.**  
