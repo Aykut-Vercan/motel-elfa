@@ -1,6 +1,6 @@
 # Motel Elfa
-
-This project is a modern React application built with **Vite** and powered by **Supabase** as the backend.  
+ 
+This project is a modern React application built with **Vite**  and uses **Supabase** for authentication, database, and backend services.
 This application is a web application where hotel staff can check reservations and make the necessary additions, updates and deletions that should be in a hotel.
 
 ## **Features**
